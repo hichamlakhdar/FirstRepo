@@ -1,4 +1,0 @@
-FirstRepo
-=========
-
-My First Repository
